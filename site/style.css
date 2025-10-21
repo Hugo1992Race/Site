@@ -83,14 +83,8 @@ body {
     height: 26px;
     left: 60px;
     top: 252px;
-
-    font-family: 'Fira Sans';
-    font-style: normal;
     font-weight: 700;
     font-size: 24px;
-    line-height: 110%;
-    display: flex;
-    align-items: center;
     color: #FFFBFB;
 }
 
@@ -148,21 +142,10 @@ body {
     color: #FFFBFB;
 }
 
-.our-services {
-    top: 640px;
-}
-
-.about {
-    top: 1190px;
-}
-
-.our-cases {
-    top: 1796px;
-}
-
-.our-blog {
-    top: 2388px;
-}
+.our-services { top: 640px; }
+.about { top: 1190px; }
+.our-cases { top: 1796px; }
+.our-blog { top: 2388px; }
 
 .block-info {
     box-sizing: border-box;
@@ -590,15 +573,8 @@ body {
     height: 48px;
     left: 60px;
     top: 3164px;
-
-    font-family: 'Fira Sans';
-    font-style: normal;
     font-weight: 500;
     font-size: 40px;
-    line-height: 48px;
-    /* identical to box height */
-    display: flex;
-    align-items: center;
     color: #FFFBFB;
 }
 
@@ -608,14 +584,8 @@ body {
     height: 116px;
     left: 60px;
     top: 3220px;
-
-    font-family: 'Fira Sans';
-    font-style: normal;
     font-weight: 400;
     font-size: 24px;
-    line-height: 29px;
-    display: flex;
-    align-items: center;
     color: #FFFBFB;
 }
 
@@ -625,32 +595,22 @@ body {
     height: 62px;
     left: 172px;
     top: 3382px;
-
-    font-family: 'Fira Sans';
-    font-style: normal;
     font-weight: 700;
     font-size: 24px;
-    line-height: 29px;
-    display: flex;
-    align-items: center;
     color: #FFFBFB;
 }
+
 .phone-number {
     position: absolute;
     width: 203px;
     height: 62px;
     left: 172px;
     top: 3410px;
-
-    font-family: 'Fira Sans';
-    font-style: normal;
     font-weight: 500;
     font-size: 20px;
-    line-height: 29px;
-    display: flex;
-    align-items: center;
     color: #FFFBFB;
 }
+
 .phone-img {
     position: absolute;
     width: 74px;
@@ -665,32 +625,22 @@ body {
     height: 62px;
     left: 172px;
     top: 3496px;
-
-    font-family: 'Fira Sans';
-    font-style: normal;
     font-weight: 700;
     font-size: 24px;
-    line-height: 29px;
-    display: flex;
-    align-items: center;
     color: #FFFBFB;
 }
+
 .email-addres {
     position: absolute;
     width: 203px;
     height: 62px;
     left: 172px;
     top: 3525px;
-
-    font-family: 'Fira Sans';
-    font-style: normal;
     font-weight: 500;
     font-size: 20px;
-    line-height: 29px;
-    display: flex;
-    align-items: center;
     color: #FFFBFB;
 }
+
 .email-img {
     position: absolute;
     width: 74px;
@@ -705,32 +655,22 @@ body {
     height: 70px;
     left: 172px;
     top: 3606px;
-
-    font-family: 'Fira Sans';
-    font-style: normal;
     font-weight: 700;
     font-size: 24px;
-    line-height: 29px;
-    display: flex;
-    align-items: center;
     color: #FFFBFB;
 }
+
 .office-addres {
     position: absolute;
     width: 315px;
     height: 70px;
     left: 172px;
     top: 3636px;
-
-    font-family: 'Fira Sans';
-    font-style: normal;
     font-weight: 500;
     font-size: 20px;
-    line-height: 29px;
-    display: flex;
-    align-items: center;
     color: #FFFBFB;
 }
+
 .office-img {
     position: absolute;
     width: 74px;
@@ -751,44 +691,34 @@ body {
 
 .form-name {
     box-sizing: border-box;
-
     position: absolute;
     width: 570px;
     height: 66px;
     left: 770px;
     top: 3230px;
-
     background: #184E77;
     border: 4px solid #7FD671;
     border-radius: 16px;
 }
+
 .form-text-head {
     position: absolute;
     width: 163px;
     height: 24px;
     left: 770px;
     top: 3178px;
-
-    font-family: 'Fira Sans';
-    font-style: normal;
     font-weight: 700;
     font-size: 20px;
-    line-height: 24px;
-    /* identical to box height */
-    display: flex;
-    align-items: center;
     color: #FFFBFB;
 }
 
 .form-email {
     box-sizing: border-box;
-
     position: absolute;
     width: 570px;
     height: 66px;
     left: 770px;
     top: 3353px;
-
     background: #184E77;
     border: 4px solid #7FD671;
     border-radius: 16px;
@@ -800,14 +730,8 @@ body {
     height: 24px;
     left: 770px;
     top: 3301px;
-
-    font-family: 'Fira Sans';
-    font-style: normal;
     font-weight: 700;
     font-size: 20px;
-    line-height: 24px;
-    display: flex;
-    align-items: center;
     color: #FFFBFB;
 }
 
@@ -817,26 +741,18 @@ body {
     height: 24px;
     left: 770px;
     top: 3424px;
-
-    font-family: 'Fira Sans';
-    font-style: normal;
     font-weight: 700;
     font-size: 20px;
-    line-height: 24px;
-    display: flex;
-    align-items: center;
     color: #FFFBFB;
 }
 
 .progect-form {
     box-sizing: border-box;
-
     position: absolute;
     width: 570px;
     height: 172px;
     left: 770px;
     top: 3476px;
-
     background: #184E77;
     border: 4px solid #7FD671;
     border-radius: 16px;
@@ -857,13 +773,8 @@ body {
     height: 36px;
     left: 804px;
     top: 3670px;
-    font-family: 'Fira Sans';
-    font-style: normal;
     font-weight: 500;
     font-size: 20px;
-    line-height: 24px;
-    display: flex;
-    align-items: center;
     color: #FFFBFB;
 }
 
@@ -873,13 +784,8 @@ body {
     height: 66px;
     left: 770px;
     top: 3720px;
-
-    font-family: 'Fira Sans';
-    font-style: normal;
     font-weight: 700;
     font-size: 24px;
-    line-height: 29px;
-    text-align: center;
     border-radius: 16px;
     background: #7FD671;
     color: #184E77;
@@ -891,9 +797,7 @@ body {
     height: 0px;
     left: 0px;
     top: 3886px;
-
     border: 1px solid #FFFBFB;
-    transform: rotate(-0.08deg);
 }
 
 .line2 {
@@ -902,8 +806,6 @@ body {
     height: 0px;
     left: 60px;
     top: 4160px;
-
-    background: #D9D9D9;
     border: 1px solid #FFFBFB;
 }
 
@@ -921,14 +823,8 @@ body {
     height: 24px;
     left: 60px;
     top: 4008px;
-
-    font-family: 'Fira Sans';
-    font-style: normal;
     font-weight: 500;
     font-size: 20px;
-    line-height: 24px;
-    display: flex;
-    align-items: center;
     color: #FFFBFB;
 }
 
@@ -962,14 +858,8 @@ body {
     height: 24px;
     left: 507px;
     top: 3908px;
-
-    font-family: 'Fira Sans';
-    font-style: normal;
     font-weight: 700;
     font-size: 20px;
-    line-height: 24px;
-    display: flex;
-    align-items: center;
     color: #7FD671;
 }
 
@@ -979,15 +869,8 @@ body {
     height: 200px;
     left: 507px;
     top: 3940px;
-
-    font-family: 'Fira Sans';
-    font-style: normal;
     font-weight: 400;
     font-size: 16px;
-    line-height: 40px;
-    /* or 250% */
-    display: flex;
-    align-items: center;
     color: #FFFBFB;
 }
 
@@ -997,14 +880,8 @@ body {
     height: 24px;
     left: 840px;
     top: 3908px;
-
-    font-family: 'Fira Sans';
-    font-style: normal;
     font-weight: 700;
     font-size: 20px;
-    line-height: 24px;
-    display: flex;
-    align-items: center;
     color: #7FD671;
 }
 
@@ -1014,14 +891,8 @@ body {
     height: 160px;
     left: 840px;
     top: 3880px;
-
-    font-family: 'Fira Sans';
-    font-style: normal;
     font-weight: 400;
     font-size: 16px;
-    line-height: 40px;
-    display: flex;
-    align-items: center;
     color: #FFFBFB;
 }
 
@@ -1031,14 +902,8 @@ body {
     height: 160px;
     left: 840px;
     top: 3918px;
-
-    font-family: 'Fira Sans';
-    font-style: normal;
     font-weight: 400;
     font-size: 16px;
-    line-height: 40px;
-    display: flex;
-    align-items: center;
     color: #FFFBFB;
 }
 
@@ -1048,24 +913,14 @@ body {
     height: 160px;
     left: 840px;
     top: 3956px;
-
-    font-family: 'Fira Sans';
-    font-style: normal;
     font-weight: 400;
     font-size: 16px;
-    line-height: 40px;
-    display: flex;
-    align-items: center;
     color: #FFFBFB;
 }
 
-
 .footer-about a {
-    font-family: 'Fira Sans';
-    font-style: normal;
     font-weight: 400;
     font-size: 16px;
-    line-height: 40px;
     color: #FFFBFB;
     text-decoration: none;
 }
@@ -1073,7 +928,6 @@ body {
 .footer-about a:hover {
     color: #7FD671;
     text-decoration: underline;
-    transform: translate(1.9s);
 }
 
 .header-contact {
@@ -1082,14 +936,8 @@ body {
     height: 24px;
     left: 1065px;
     top: 3908px;
-
-    font-family: 'Fira Sans';
-    font-style: normal;
     font-weight: 700;
     font-size: 20px;
-    line-height: 24px;
-    display: flex;
-    align-items: center;
     color: #7FD671;
 }
 
@@ -1099,14 +947,8 @@ body {
     height: 120px;
     left: 1065px;
     top: 3940px;
-
-    font-family: 'Fira Sans';
-    font-style: normal;
     font-weight: 500;
     font-size: 15px;
-    line-height: 40px;
-    display: flex;
-    align-items: center;
     color: #FFFBFB;
 }
 
@@ -1116,48 +958,30 @@ body {
     height: 20px;
     left: 60px;
     top: 4180px;
-
-    font-family: 'Fira Sans';
-    font-style: normal;
     font-weight: 500;
     font-size: 15px;
-    line-height: 40px;
-    display: flex;
-    align-items: center;
     color: #FFFBFB;
 }
+
 .footer-politic {
     position: absolute;
     width: 266px;
     height: 20px;
     left: 911px;
     top: 4180px;
-
-    font-family: 'Fira Sans';
-    font-style: normal;
     font-weight: 500;
     font-size: 15px;
-    line-height: 40px;
-    display: flex;
-    align-items: center;
-    text-align: right;
     color: #FFFBFB;
 }
+
 .footer-conditions {
     position: absolute;
     width: 203px;
     height: 20px;
     left: 1177px;
     top: 4180px;
-
-    font-family: 'Fira Sans';
-    font-style: normal;
     font-weight: 500;
     font-size: 15px;
-    line-height: 40px;
-    display: flex;
-    align-items: center;
-    text-align: right;
     color: #FFFBFB;
 }
 
@@ -1188,7 +1012,7 @@ body {
     border-radius: 16px;
     width: 80%;
     max-width: 900px;
-    max-height: 180vh;
+    max-height: 80vh;
     overflow-y: auto;
     animation: slideIn 0.3s;
 }
@@ -1239,21 +1063,8 @@ body {
     margin-bottom: 8px;
 }
 
-/* Адаптивность для модальных окон */
-@media screen and (max-width: 768px) {
-    .modal-content {
-        width: 95%;
-        margin: 10% auto;
-        padding: 20px;
-    }
-    
-    .modal-content h2 {
-        font-size: 24px;
-    }
-}
-
-   /* Планшеты и небольшие ноутбуки (1024px - 1440px) */
-   @media screen and (max-width: 1440px) {
+/* Адаптивность */
+@media screen and (max-width: 1440px) {
     .container {
         width: 100%;
         max-width: 1440px;
@@ -1264,654 +1075,64 @@ body {
     .hero-image {
         width: 100%;
     }
+}
+
+@media screen and (max-width: 1024px) {
+    .container {
+        width: 100%;
+        height: auto;
+        min-height: 4800px;
+    }
+    
+    .header {
+        padding: 10px 20px;
+    }
+    
+    .hero-image {
+        height: 400px;
+    }
     
     .slogan {
-        width: 80%;
-        font-size: 42px;
+        width: 90%;
+        left: 5%;
+        font-size: 36px;
     }
-    
-    .product, .technology {
-        width: 80%;
-    }
-    
-    .block-info, .blog-post {
-        width: 30%;
-        margin: 0 1.5%;
-    }
-    
-    .block-info1 { left: 2%; }
-    .block-info2 { left: 35%; }
-    .block-info3 { left: 68%; }
-    
-    .block-logo {
-        width: 80%;
-        left: 10%;
-    }
-    
-    .logo-block1 { left: 10%; }
-    .logo-block2 { left: 10%; }
-    .logo-block3 { left: 10%; }
-    
-    .block-text-title, .block-text-desc, .block-text-list
+}
 
-    @media screen and (max-width: 1024px) {
-        .container {
-            width: 100%;
-            height: auto;
-            min-height: 4800px;
-        }
-        
-        .header {
-            padding: 10px 20px;
-            height: 80px;
-        }
-        
-        .logo {
-            width: 80px;
-            height: 60px;
-        }
-        
-        .nav-btn {
-            font-size: 16px;
-            padding: 8px 12px;
-        }
-        
-        .hero-image {
-            height: 400px;
-        }
-        
-        .slogan {
-            width: 90%;
-            left: 5%;
-            font-size: 36px;
-            top: 150px;
-        }
-        
-        .product {
-            width: 90%;
-            left: 5%;
-            top: 210px;
-            font-size: 20px;
-        }
-        
-        .technology {
-            width: 90%;
-            left: 5%;
-            top: 280px;
-            font-size: 18px;
-        }
-        
-        .our-services-btn, .discuss-btn {
-            height: 50px;
-            font-size: 22px;
-        }
-        
-        .our-services-btn {
-            width: 180px;
-            left: 5%;
-            top: 380px;
-        }
-        
-        .discuss-btn {
-            width: 280px;
-            left: 200px;
-            top: 380px;
-        }
-        
-        .section-title {
-            width: 90%;
-            left: 5%;
-            font-size: 32px;
-        }
-        
-        .our-services { top: 550px; }
-        .about { top: 1250px; }
-        .our-cases { top: 1950px; }
-        .our-blog { top: 2650px; }
-        
-        .block-info {
-            width: 90%;
-            left: 5%;
-            height: 350px;
-        }
-        
-        .block-info1 { top: 650px; }
-        .block-info2 { top: 1030px; }
-        .block-info3 { top: 1410px; }
-        
-        .block-logo {
-            width: 70px;
-            height: 70px;
-            left: 5%;
-        }
-        
-        .logo-block1, .logo-block2, .logo-block3 {
-            left: 5%;
-        }
-        
-        .logo-block1 { top: 675px; }
-        .logo-block2 { top: 1055px; }
-        .logo-block3 { top: 1435px; }
-        
-        .block-text-title, .block-text-desc, .block-text-list {
-            width: 90%;
-            left: 5%;
-        }
-        
-        .text-development, .text-mobile, .text-integrations { top: 760px; }
-        .text-development1, .text-mobile1, .text-integrations1 { top: 800px; }
-        .text-development2, .text-mobile2, .text-integrations2 { top: 880px; }
-        
-        .block-btn {
-            left: 5%;
-            font-size: 18px;
-        }
-        
-        .btn-block1 { top: 1020px; }
-        .btn-block2 { top: 1400px; }
-        .btn-block3 { top: 1780px; }
-        
-        .inter-text {
-            width: 90%;
-            left: 5%;
-            top: 1150px;
-            font-size: 32px;
-        }
-        
-        .inter-text-extra {
-            width: 90%;
-            left: 5%;
-            top: 1200px;
-            font-size: 18px;
-        }
-        
-        .about-img {
-            width: 90%;
-            left: 5%;
-            top: 1280px;
-            height: 300px;
-        }
-        
-        .feature-box {
-            width: 45%;
-            height: 80px;
-        }
-        
-        .team { left: 5%; top: 1620px; }
-        .reliability { left: 50%; top: 1620px; }
-        .innovation { left: 5%; top: 1720px; }
-        .tech-under { left: 50%; top: 1720px; }
-        
-        .feature-title {
-            width: 100%;
-            font-size: 24px;
-        }
-        
-        .text-team { left: 5%; top: 1630px; }
-        .text-reliability { left: 50%; top: 1630px; }
-        .text-innovation { left: 5%; top: 1730px; }
-        .text-tech-under { left: 50%; top: 1730px; }
-        
-        .feature-desc {
-            width: 100%;
-            font-size: 13px;
-        }
-        
-        .text-team1 { left: 5%; top: 1660px; }
-        .text-reliability1 { left: 50%; top: 1660px; }
-        .text-innovation1 { left: 5%; top: 1760px; }
-        .text-tech-under1 { left: 50%; top: 1760px; }
-        
-        .text-our-cases {
-            width: 90%;
-            left: 5%;
-            top: 1850px;
-        }
-        
-        .case-box {
-            width: 90%;
-            left: 5%;
-            height: 250px;
-        }
-        
-        .online-store { top: 1920px; }
-        .food-delivery { top: 2200px; }
-        
-        .case-title, .case-desc {
-            width: 85%;
-            left: 7%;
-        }
-        
-        .text-online-store, .text-food-delivery { top: 2000px; }
-        .text-online-store1, .text-food-delivery1 { top: 2040px; }
-        
-        .case-btn {
-            left: 7%;
-            font-size: 18px;
-        }
-        
-        .btn-online-store { top: 2120px; }
-        .btn-food-delivery { top: 2400px; }
-        
-        .all-cases, .all-news {
-            left: 50%;
-            transform: translateX(-50%);
-        }
-        
-        .all-cases { top: 2450px; }
-        .all-news { top: 3250px; }
-        
-        .all-btn-text {
-            left: 50%;
-            transform: translateX(-50%);
-        }
-        
-        .text-all-cases { top: 2463px; }
-        .text-all-news { top: 3263px; }
-        
-        .text-our-blog {
-            width: 90%;
-            left: 5%;
-            top: 2550px;
-        }
-        
-        .blog-post {
-            width: 90%;
-            left: 5%;
-            height: 450px;
-        }
-        
-        .trends { top: 2620px; }
-        .development { top: 3100px; }
-        .design { top: 3580px; }
-        
-        .post-label, .post-head, .post-text {
-            width: 90%;
-            left: 7%;
-        }
-        
-        .trends-label, .development-label, .design-label { top: 2820px; }
-        .trends-head, .development-head, .design-head { top: 2860px; }
-        .trends-text, .development-text, .design-text { top: 2920px; }
-        
-        .development-label { top: 3300px; }
-        .development-head { top: 3340px; }
-        .development-text { top: 3400px; }
-        
-        .design-label { top: 3780px; }
-        .design-head { top: 3820px; }
-        .design-text { top: 3880px; }
-        
-        .post-btn {
-            left: 7%;
-            font-size: 16px;
-        }
-        
-        .trends-btn { top: 3020px; }
-        .development-btn { top: 3500px; }
-        .design-btn { top: 3980px; }
-        
-        .offer {
-            width: 90%;
-            left: 5%;
-            top: 4100px;
-            font-size: 32px;
-        }
-        
-        .text-offer {
-            width: 90%;
-            left: 5%;
-            top: 4150px;
-            font-size: 20px;
-        }
-        
-        .phone, .phone-number, .email, .email-addres, .office, .office-addres {
-            width: 70%;
-            left: 25%;
-        }
-        
-        .phone { top: 4280px; }
-        .phone-number { top: 4310px; }
-        .phone-img { top: 4285px; left: 5%; }
-        
-        .email { top: 4370px; }
-        .email-addres { top: 4400px; }
-        .email-img { top: 4375px; left: 5%; }
-        
-        .office { top: 4460px; }
-        .office-addres { top: 4490px; }
-        .office-img { top: 4465px; left: 5%; }
-        
-        .form {
-            width: 90%;
-            left: 5%;
-            top: 4580px;
-            height: 600px;
-        }
-        
-        .form-text-head, .email-text, .text-progect {
-            left: 7%;
-        }
-        
-        .form-text-head { top: 4600px; }
-        .email-text { top: 4720px; }
-        .text-progect { top: 4840px; }
-        
-        .form-name, .form-email, .progect-form, .button-form {
-            width: 90%;
-            left: 7%;
-        }
-        
-        .form-name { top: 4630px; }
-        .form-email { top: 4750px; }
-        .progect-form { top: 4870px; }
-        
-        .checkbox, .checkbox-text {
-            left: 7%;
-        }
-        
-        .checkbox { top: 5070px; }
-        .checkbox-text { top: 5065px; left: 12%; width: 80%; }
-        
-        .button-form { top: 5120px; }
-        
-        .line1 {
-            width: 100%;
-            top: 5250px;
-        }
-        
-        .footer-logo {
-            left: 5%;
-            top: 5270px;
-        }
-        
-        .footer-slogan {
-            width: 90%;
-            left: 5%;
-            top: 5360px;
-        }
-        
-        .icon-vk, .icon-tg, .icon-mail {
-            left: 5%;
-            top: 5400px;
-        }
-        
-        .icon-tg { left: 55px; }
-        .icon-mail { left: 105px; }
-        
-        .services-footer, .name-service-footer {
-            left: 5%;
-            width: 90%;
-        }
-        
-        .services-footer { top: 5450px; }
-        .name-service-footer { top: 5480px; }
-        
-        .company-footer, .about-link, .cases-link, .blog-link {
-            left: 5%;
-            width: 90%;
-        }
-        
-        .company-footer { top: 5550px; }
-        .about-link { top: 5520px; }
-        .cases-link { top: 5560px; }
-        .blog-link { top: 5600px; }
-        
-        .header-contact, .header-contact-link {
-            left: 5%;
-            width: 90%;
-        }
-        
-        .header-contact { top: 5650px; }
-        .header-contact-link { top: 5680px; }
-        
-        .line2 {
-            width: 90%;
-            left: 5%;
-            top: 5750px;
-        }
-        
-        .footer-end, .footer-politic, .footer-conditions {
-            left: 5%;
-            width: 90%;
-            text-align: left;
-        }
-        
-        .footer-end { top: 5770px; }
-        .footer-politic { top: 5800px; }
-        .footer-conditions { top: 5830px; }
+@media screen and (max-width: 768px) {
+    .container {
+        min-height: 5200px;
     }
     
-    /* Телефоны (480px - 768px) */
-    @media screen and (max-width: 768px) {
-        .container {
-            min-height: 5200px;
-        }
-        
-        .header {
-            padding: 5px 15px;
-            height: 70px;
-            flex-wrap: wrap;
-        }
-        
-        .logo {
-            width: 60px;
-            height: 50px;
-        }
-        
-        .nav-btn {
-            font-size: 14px;
-            padding: 5px 8px;
-        }
-        
-        .hero-image {
-            height: 300px;
-        }
-        
-        .slogan {
-            font-size: 28px;
-            top: 120px;
-        }
-        
-        .product {
-            font-size: 18px;
-            top: 170px;
-        }
-        
-        .technology {
-            font-size: 16px;
-            top: 220px;
-        }
-        
-        .our-services-btn, .discuss-btn {
-            height: 45px;
-            font-size: 18px;
-        }
-        
-        .our-services-btn {
-            width: 150px;
-            top: 300px;
-        }
-        
-        .discuss-btn {
-            width: 220px;
-            left: 170px;
-            top: 300px;
-        }
-        
-        .section-title {
-            font-size: 26px;
-        }
-        
-        .our-services { top: 450px; }
-        .about { top: 1150px; }
-        .our-cases { top: 1850px; }
-        .our-blog { top: 2550px; }
-        
-        .block-info {
-            height: 320px;
-        }
-        
-        .block-info1 { top: 520px; }
-        .block-info2 { top: 860px; }
-        .block-info3 { top: 1200px; }
-        
-        .block-logo {
-            width: 60px;
-            height: 60px;
-        }
-        
-        .logo-block1 { top: 545px; }
-        .logo-block2 { top: 885px; }
-        .logo-block3 { top: 1225px; }
-        
-        .block-text-title {
-            font-size: 24px;
-        }
-        
-        .text-development, .text-mobile, .text-integrations { top: 620px; }
-        .text-development1, .text-mobile1, .text-integrations1 { top: 650px; }
-        .text-development2, .text-mobile2, .text-integrations2 { top: 730px; }
-        
-        .block-btn {
-            font-size: 16px;
-        }
-        
-        .btn-block1 { top: 840px; }
-        .btn-block2 { top: 1180px; }
-        .btn-block3 { top: 1520px; }
-        
-        .inter-text {
-            font-size: 26px;
-            top: 980px;
-        }
-        
-        .inter-text-extra {
-            font-size: 16px;
-            top: 1020px;
-        }
-        
-        .about-img {
-            height: 250px;
-            top: 1080px;
-        }
-        
-        .feature-box {
-            width: 90%;
-            left: 5%;
-        }
-        
-        .team { top: 1370px; }
-        .reliability { top: 1460px; }
-        .innovation { top: 1550px; }
-        .tech-under { top: 1640px; }
-        
-        .feature-title {
-            font-size: 20px;
-        }
-        
-        .text-team { left: 5%; top: 1380px; }
-        .text-reliability { left: 5%; top: 1470px; }
-        .text-innovation { left: 5%; top: 1560px; }
-        .text-tech-under { left: 5%; top: 1650px; }
-        
-        .feature-desc {
-            font-size: 12px;
-        }
-        
-        .text-team1 { left: 5%; top: 1405px; }
-        .text-reliability1 { left: 5%; top: 1495px; }
-        .text-innovation1 { left: 5%; top: 1585px; }
-        .text-tech-under1 { left: 5%; top: 1675px; }
-        
-        /* Остальные стили для мобильных... */
+    .header {
+        padding: 5px 15px;
+        flex-wrap: wrap;
     }
     
-    /* Маленькие телефоны (до 480px) */
-    @media screen and (max-width: 480px) {
-        .container {
-            min-height: 5500px;
-        }
-        
-        .header {
-            flex-direction: column;
-            height: auto;
-            padding: 10px;
-        }
-        
-        .logo {
-            margin-bottom: 10px;
-        }
-        
-        .nav-btn {
-            font-size: 12px;
-            padding: 3px 6px;
-        }
-        
-        .hero-image {
-            height: 250px;
-        }
-        
-        .slogan {
-            font-size: 22px;
-            top: 100px;
-        }
-        
-        .product {
-            font-size: 16px;
-            top: 140px;
-        }
-        
-        .technology {
-            font-size: 14px;
-            top: 180px;
-        }
-        
-        .our-services-btn, .discuss-btn {
-            height: 40px;
-            font-size: 16px;
-            width: 45%;
-        }
-        
-        .our-services-btn {
-            left: 5%;
-            top: 250px;
-        }
-        
-        .discuss-btn {
-            left: 52%;
-            top: 250px;
-        }
-        
-        .section-title {
-            font-size: 22px;
-        }
-        
-        /* Дополнительные стили для очень маленьких экранов... */
+    .hero-image {
+        height: 300px;
     }
     
-    /* Ориентация телефона */
-    @media screen and (max-width: 768px) and (orientation: landscape) {
-        .hero-image {
-            height: 200px;
-        }
-        
-        .slogan {
-            top: 80px;
-            font-size: 24px;
-        }
-        
-        .product {
-            top: 120px;
-        }
-        
-        .technology {
-            top: 150px;
-        }
-        
-        .our-services-btn, .discuss-btn {
-            top: 200px;
-        }
+    .slogan {
+        font-size: 28px;
     }
+}
 
+@media screen and (max-width: 480px) {
+    .container {
+        min-height: 5500px;
+    }
     
+    .header {
+        flex-direction: column;
+        height: auto;
+    }
+    
+    .hero-image {
+        height: 250px;
+    }
+    
+    .slogan {
+        font-size: 22px;
+    }
+}
